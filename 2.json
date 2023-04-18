@@ -1,0 +1,10 @@
+{ "Citizen":
+{
+"surname": "Иванов",
+"name": "Иван",
+"patronymic": "Иванович",
+"birthdate": "01.01.1990",
+"birthplace": "Москва",
+"phone": "89267664848"
+}
+}
